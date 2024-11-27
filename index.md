@@ -22,15 +22,15 @@ sections:
     title: What we do 
     services:
       - title: Fandom
-        text: First, we are fans and we celebrate the show with various events. See [our past events](uss-quest/fandom) 
-        icon: fa-hand-spock-o
+        text: First, we are fans and we celebrate the show with various events. See our past events for details.  
+        icon: fa-rocket
         url: /uss-quest/fandom
       - title: Costuming
-        text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
-        icon: fa-id-badge
+        text: We are wearing the uniforms from Star Trek Voyager. 
+        icon: fa-user
       - title: Charity
-        text: Information Sciences Institute - 4676 Admiralty Way, Marina Del Rey, CA 90292
-        icon: fa-building
+        text: We support animal rescues and environmental causes. 
+        icon: fa-paw
 
   - type: members.html
     section_id: officers
@@ -55,11 +55,20 @@ sections:
     #background_style: bg-primary text-white
     title: Contact us
     text: >-
-      If you have any questions please contact us!
+      If you have any questions please contact us and follow us on social media!
     actions:
     - title: e-mail
       icon: fa-envelope
       url: mailto:ussquestcomms@gmail.com
+    - title: Facebook
+      icon: fa-facebook
+      url: https://www.facebook.com/groups/ussquest
+    - title: Instagram
+      icon: fa-instagram
+      url: https://www.instagram.com/uss_quest/profilecard/
+    - title: TikTok
+      icon: fa-star
+      url: https://www.tiktok.com/@uss_quest 
 
 ---
 
