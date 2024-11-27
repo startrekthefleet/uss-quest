@@ -21,54 +21,34 @@ sections:
     #background_style: bg-primary
     title: What we do 
     services:
-      - title: Away Missions
+      - title: Fandom
         text: First, we are fans and we celebrate the show with various events. See [our past events](uss-quest/fandom) 
-        icon: fa-hand-spock-o
-        url: /uss_quest/fandom
-      - title: Registration
+        icon: bi-rocket-takeoff
+        url: /uss-quest/fandom
+      - title: Costuming
         text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
         icon: fa-id-badge
-      - title: Venue
+      - title: Charity
         text: Information Sciences Institute - 4676 Admiralty Way, Marina Del Rey, CA 90292
         icon: fa-building
 
-  - type: call-to-action.html
-    section_id: codeofconduct
-    background_style: bg-primary
-    title: Community Participation Guidelines
-    text: In order to help us create a safe and positive community experience we have adopted community participation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
-    actions: 
-      - title: Read the guidelines
-        url: '/building-upon-the-earthcube-community/participation'
-        class: btn-light
-
   - type: members.html
-    section_id: committee
-    title: Organizing Committee
+    section_id: officers
+    title: Senior Officers
     background_style: bg-info text-white
     members:
+      - title: Denise Baker
+        text: Captain
+        image: assets/img/members/denise.jpg
       - title: Deborah Khider
-        text: USC Information Sciences Institute
-        image: /building-upon-the-earthcube-community/assets/img/members/khider.jpg
-        #url: '#'
-      - title: Mike Daniels
-        text: NCAR/Ronin Institute
-        image: assets/img/members/daniels2.jpg
-        #url: '#'
-      - title: Nick Jarboe
-        text: Jarboe Enterprises
-        image: assets/img/members/njarboe.jpg
-        url: '#'
- 
-  - type: members.html
-    section_id: sponsors
-    title: Many Thanks to our Sponsors
-    members:
-      - title: National Science Foundation - RISE-2315484
-        image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png
-      
-      - title: USC Information Sciences Institute
-        image: /building-upon-the-earthcube-community/assets/img/isi_logo.jpg
+        text: Lt Commander - XO, Science Officer
+        image: assets/img/members/deborah.jpg
+      - title: Travis Baker
+        text: Lt Commander - Operations
+        image: assets/img/members/travis.jpg
+      - title: Sean Warren
+        text: Lt Commander - Helm
+        image: assests/img/members/sean.jpg
 
   - type: contact.html
     section_id: contact
@@ -79,7 +59,7 @@ sections:
     actions:
     - title: e-mail
       icon: fa-envelope
-      url: mailto:khider@usc.edu
+      url: mailto:ussquestcomms@gmail.com
 
 ---
 
