@@ -28,9 +28,11 @@ sections:
       - title: Costuming
         text: We are wearing the uniforms from Star Trek Voyager. 
         icon: fa-user
+        url: /uss-quest/costuming
       - title: Charity
         text: We support animal rescues and environmental causes. 
         icon: fa-paw
+        url: /uss-quest/charity
 
   - type: members.html
     section_id: officers
@@ -61,10 +63,10 @@ sections:
       icon: fa-envelope
       url: mailto:ussquestcomms@gmail.com
     - title: Facebook
-      icon: fa-facebook
+      icon: fa-thumbs-up
       url: https://www.facebook.com/groups/ussquest
     - title: Instagram
-      icon: fa-instagram
+      icon: fa-envelope
       url: https://www.instagram.com/uss_quest/profilecard/
     - title: TikTok
       icon: fa-star
