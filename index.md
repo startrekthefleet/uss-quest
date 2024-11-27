@@ -23,7 +23,7 @@ sections:
     services:
       - title: Fandom
         text: First, we are fans and we celebrate the show with various events. See [our past events](uss-quest/fandom) 
-        icon: bi-rocket-takeoff
+        icon: fa-user
         url: /uss-quest/fandom
       - title: Costuming
         text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
@@ -48,7 +48,7 @@ sections:
         image: assets/img/members/travis.jpg
       - title: Sean Warren
         text: Lt Commander - Helm
-        image: assests/img/members/sean.jpg
+        image: assets/img/members/sean.jpg
 
   - type: contact.html
     section_id: contact
