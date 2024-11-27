@@ -22,15 +22,15 @@ sections:
     title: What we do 
     services:
       - title: Fandom
-        text: First, we are fans and we celebrate the show with various events. See our past events for details.  
+        text: We are Star Trek fans.
         icon: fa-rocket
         url: /uss-quest/fandom
       - title: Costuming
-        text: We are wearing the uniforms from Star Trek Voyager. 
+        text: Our uniform is Voyager era and our ship is Olympic class. 
         icon: fa-user
         url: /uss-quest/costuming
       - title: Charity
-        text: We support animal rescues and environmental causes. 
+        text: Animal welfare and environmental restoration. 
         icon: fa-paw
         url: /uss-quest/charity
 
