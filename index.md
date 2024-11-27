@@ -23,7 +23,7 @@ sections:
     services:
       - title: Fandom
         text: First, we are fans and we celebrate the show with various events. See [our past events](uss-quest/fandom) 
-        icon: fa-user
+        icon: fa-hand-spock-o
         url: /uss-quest/fandom
       - title: Costuming
         text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
