@@ -10,4 +10,11 @@ menus:
     weight: 2
 
 ---
-First and foremost, we are Star Trek fans who want to get together and have fun. 
+First and foremost, we are Star Trek fans who want to get together and have fun. Our events range from meals with the crew to Star Trek RPGs, viewing parties, ice skating, beach gatherings, and hikes.
+
+<iframe width="560" height="315" src="https://youtu.be/1D4b8N5_o1A" 
+        title="USS Quest 2024" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe
