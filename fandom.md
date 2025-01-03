@@ -12,4 +12,4 @@ menus:
 ---
 First and foremost, we are Star Trek fans who want to get together and have fun. Our events range from meals with the crew to Star Trek RPGs, viewing parties, ice skating, beach gatherings, and hikes.
 
-[Watch this YouTube video]](https://youtu.be/1D4b8N5_o1A)
+[Watch this YouTube video](https://youtu.be/1D4b8N5_o1A)
