@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: USS Quest NCC 90602 -  A Star Trek Costuming Fan Group
+  title: USS Quest -  A Star Trek Costuming Fan Group
   text: The Long Beach Chapter of the Fleet - A Star Trek Costuming Fan Group
   action: # action button is optional
     label: Learn More
@@ -14,7 +14,7 @@ sections:
     section_id: about
     title: USS Quest
     text: >+
-      Welcome to the USS Quest, a Star Trek Costuming Fan Group. We are the Long Beach Chapter of [the Fleet](https://startrekthefleet.weebly.com). We celebrate the Star Trek universe with fun, casual events. The Fleet was funded over three pillars: Fandom, Costuming and Charity. Scroll down to learn more. 
+      Welcome to the USS Quest (registry: NCC 90602), a Star Trek Costuming Fan Group. We are the Long Beach Chapter of [the Fleet](https://startrekthefleet.weebly.com). We celebrate the Star Trek universe with fun, casual events. The Fleet was funded over three pillars: Fandom, Costuming and Charity. Scroll down to learn more. 
 
 
       To join us, simply join our [Facebook page](https://www.facebook.com/groups/ussquest).
