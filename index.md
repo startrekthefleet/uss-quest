@@ -2,7 +2,7 @@
 layout: home
 header:
   title: USS Quest
-  text: The Long Beach Chapter of the Fleet - A Star Trek Costuming Fan Group
+  text: The Long Beach Chapter of *The Fleet - A Star Trek Costuming Fan Group*
   action: # action button is optional
     label: Learn More
     url: '#about'
