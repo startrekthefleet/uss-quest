@@ -54,6 +54,7 @@ sections:
       - title: Sean Warren
         text: Lt Commander - Helm
         image: assets/img/members/sean.jpg
+      - title: Chris Mumford
 
   - type: contact.html
     section_id: contact
