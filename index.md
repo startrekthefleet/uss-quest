@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: USS Quest -  A Star Trek Costuming Fan Group
+  title: USS Quest
   text: The Long Beach Chapter of the Fleet - A Star Trek Costuming Fan Group
   action: # action button is optional
     label: Learn More
@@ -14,7 +14,7 @@ sections:
     section_id: about
     title: USS Quest
     text: >+
-      Welcome to the USS Quest (registry: NCC 90602), a Star Trek Costuming Fan Group. We are the Long Beach Chapter of [the Fleet](https://startrekthefleet.weebly.com). We celebrate the Star Trek universe with fun, casual events. The Fleet was funded over three pillars: Fandom, Costuming and Charity. Scroll down to learn more. 
+      Welcome to the USS Quest (registry: NCC-50602)! We are the Long Beach Chapter of [the Fleet](https://startrekthefleet.weebly.com) - a national organizaiton founded on the pillars of fandom, costuming, and charity.  
 
 
       To join us, simply join our [Facebook page](https://www.facebook.com/groups/ussquest).
@@ -25,15 +25,15 @@ sections:
     title: What we do 
     services:
       - title: Fandom
-        text: We are Star Trek fans.
+        text: We are Star Trek fans!
         icon: fa-rocket
         url: /uss-quest/fandom
       - title: Costuming
-        text: Our uniform is Voyager era and our ship is Olympic class. 
+        text: We wear *Voyager* uniforms!
         icon: fa-user
         url: /uss-quest/costuming
       - title: Charity
-        text: Animal welfare and environmental restoration. 
+        text: We care for animals and the environment! 
         icon: fa-paw
         url: /uss-quest/charity
 
@@ -55,6 +55,8 @@ sections:
         text: Lt Commander - Helm
         image: assets/img/members/sean.jpg
       - title: Chris Mumford
+        text: Lt. Junior Grade - Communication
+        image: assets/img/members/chris.jpg
 
   - type: contact.html
     section_id: contact

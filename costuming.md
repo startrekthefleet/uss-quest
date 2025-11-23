@@ -19,4 +19,5 @@ Cosermart provides cheap, well-made [jackets](https://www.ebay.com/itm/325285183
 
 ## Commbadge
 
-We recommend the licensed retailer [fansets](https://fansets.com/collections/magnets/products/copy-of-star-trek-voyager-ds9-delta-licensed-fansets-pin). You can also get your [rank pips](https://fansets.com/products/star-trek-24th-century-rank-pips) from the same company. 
+We recommend the licensed retailer [fansets](https://fansets.com/collections/magnets/products/copy-of-star-trek-voyager-ds9-delta-licensed-fansets-pin). You can also get your [rank pips](https://fansets.com/products/star-trek-24th-century-rank-pips) from the same company.
+
