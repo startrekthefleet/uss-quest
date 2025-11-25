@@ -14,6 +14,7 @@ sections:
     section_id: about
     title: ABOUT US
     text: >+
+    
       *"Boldly venturing through the frontiers of fandom, costuming and charity."*
 
       [*The Fleet: A Star Trek Costuming Fan Group*](https://startrekthefleet.weebly.com) is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world.
