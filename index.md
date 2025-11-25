@@ -2,7 +2,7 @@
 layout: home
 header:
   title: USS Quest
-  text: The Long Beach Chapter of *The Fleet - A Star Trek Costuming Fan Group*
+  text: Part of The Fleet: A Star Trek Costuming Fan Group - Long Beach, CA
   action: # action button is optional
     label: Learn More
     url: '#about'
@@ -12,34 +12,37 @@ sections:
   - type: paragraph.html
     #background_style: bg-primary text-white
     section_id: about
-    title: USS Quest
+    title: ABOUT US
     text: >+
-      Welcome to the USS Quest (registry: NCC-50602)! We are the Long Beach Chapter of [the Fleet](https://startrekthefleet.weebly.com) - a national organizaiton founded on the pillars of fandom, costuming, and charity.  
+      *"Boldly venturing through the frontiers of fandom, costuming and charity."*
 
+      [*The Fleet: A Star Trek Costuming Fan Group*](https://startrekthefleet.weebly.com) is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world.
 
-      To join us, simply join our [Facebook page](https://www.facebook.com/groups/ussquest).
+      The *USS Quest* is *The Fleet*'s Chapter (or "Ship") for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet*'s district for Southern California. 
+
+      To connect with us, reach out to us on our socials (see [Contact](https://startrekthefleet.github.io/uss-quest/#contact)) 
 
   - type: services.html
     section_id: logistics
     #background_style: bg-primary
-    title: What we do 
+    title: WHAT WE DO
     services:
-      - title: Fandom
+      - title: FANDOM
         text: We are Star Trek fans!
         icon: fa-rocket
         url: /uss-quest/fandom
-      - title: Costuming
+      - title: COSTUMING
         text: We wear *Voyager* uniforms!
         icon: fa-user
         url: /uss-quest/costuming
-      - title: Charity
+      - title: CHARITY
         text: We care for animals and the environment! 
         icon: fa-paw
         url: /uss-quest/charity
 
   - type: members.html
     section_id: officers
-    title: Senior Officers
+    title: SENIOR OFFICERS
     background_style: bg-info text-white
     members:
       - title: Denise Baker
@@ -61,7 +64,7 @@ sections:
   - type: contact.html
     section_id: contact
     #background_style: bg-primary text-white
-    title: Contact us
+    title: CONTACT
     text: >-
       If you have any questions please contact us and follow us on social media!
     actions:
