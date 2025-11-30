@@ -18,7 +18,10 @@ sections:
       *"Boldly venturing through the frontiers of fandom, costuming and charity."*
 
 
-      *The Fleet - A Star Trek Costuming Fan Group* is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world. The *USS Quest* is *The Fleet's* Chapter - or "Ship" - for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet's* district for Southern California. 
+      *The Fleet - A Star Trek Costuming Fan Group* is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world. 
+      
+      
+      The *USS Quest* is *The Fleet's* Chapter - or "Ship" - for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet's* district for Southern California. 
       
 
   - type: services.html
@@ -45,19 +48,19 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Denise Baker
-        text: Captain
+        text: Captain - Commanding Officer
         image: assets/img/members/denise.jpg
       - title: Deborah Khider
-        text: Lt Commander - XO, Science Officer
+        text: Lt. Commander - First Officer, Science Officer
         image: assets/img/members/deborah.jpg
       - title: Travis Baker
-        text: Lt Commander - Operations
+        text: Lt. Commander - Operations Chief
         image: assets/img/members/travis.jpg
       - title: Sean Warren
-        text: Lt Commander - Helm
+        text: Lt. Commander - Helmsperson
         image: assets/img/members/sean.jpg
       - title: Chris Mumford
-        text: Lt. Junior Grade - Communication
+        text: Lt. Junior Grade - Communications Officer
         image: assets/img/members/chris.jpg
 
   - type: contact.html
