@@ -2,7 +2,7 @@
 layout: home
 header:
   title: USS Quest
-  text: Part of The Fleet: A Star Trek Costuming Fan Group - Long Beach, CA
+  text: Part of The Fleet - A Star Trek Costuming Fan Group; Long Beach, CA
   action: # action button is optional
     label: Learn More
     url: '#about'
@@ -14,14 +14,12 @@ sections:
     section_id: about
     title: ABOUT US
     text: >+
-
+      
       *"Boldly venturing through the frontiers of fandom, costuming and charity."*
 
-      [*The Fleet: A Star Trek Costuming Fan Group*](https://startrekthefleet.weebly.com) is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world.
+      *The Fleet - A Star Trek Costuming Fan Group* is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world.
 
-      The *USS Quest* is *The Fleet*'s Chapter (or "Ship") for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet*'s district for Southern California. 
-
-      To connect with us, reach out to us on our socials (see [Contact](https://startrekthefleet.github.io/uss-quest/#contact)) 
+      The *USS Quest* is *The Fleet's* Chapter - or "Ship" - for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet's* district for Southern California. 
 
   - type: services.html
     section_id: logistics
