@@ -17,9 +17,9 @@ sections:
       
       *"Boldly venturing through the frontiers of fandom, costuming and charity."*
 
-      *The Fleet - A Star Trek Costuming Fan Group* is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world.
 
-      The *USS Quest* is *The Fleet's* Chapter - or "Ship" - for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet's* district for Southern California. 
+      *The Fleet - A Star Trek Costuming Fan Group* is a free-to-join fan organizaton where *Star Trek* fans of all walks of life can find community in playing dress-up and living out the Trek ethos in the modern world. The *USS Quest* is *The Fleet's* Chapter - or "Ship" - for the Aquatic Capital of the World - Long Beach, California! It is a part of the Alpha Prime Squadron, *The Fleet's* district for Southern California. 
+      
 
   - type: services.html
     section_id: logistics
