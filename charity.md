@@ -25,7 +25,5 @@ Charities we support:
 
 
 
-
-<img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/LosCerritos.jpeg?raw=true" alt="Los Cerritos Habitat Restoration" width="300">
 <img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/DonationDrive.png?raw=true" alt="LBACS Donation Drive" width="300">
 

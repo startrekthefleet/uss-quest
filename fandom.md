@@ -14,5 +14,13 @@ The *Quest* participates in conventions, especially Long Beach Comic-Con, Los An
 
 We also get together for social events such as viewing parties, tabletop game sessions, outdoor recreation and more!
 
+<img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/STLV.jpeg?raw=true" alt="STLV" width="300">
+
+<img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/WonderCon.jpeg?raw=true" alt="WonderCon Founding 4" width="300">
+
+<img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/LBCC.jpeg?raw=true" alt="Long Beach Comic Con Chair" width="300">
+
+<img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/events/WonderConBooth.jpeg?raw=true" alt="Wonder Con Funny" width="300">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1D4b8N5_o1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
