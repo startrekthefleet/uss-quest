@@ -9,6 +9,7 @@ menus:
     title: Fandom
     weight: 2
 
+<img src=https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/members/group/queenmary.jpg?raw=true" alt="Queen Mary" width="600"
 ---
 The *Quest* participates in conventions, especially Long Beach Comic-Con, Los Angeles Comic-Con, and WonderCon, as well as any other *Star Trek*-specific events in the local area.
 

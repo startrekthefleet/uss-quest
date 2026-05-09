@@ -49,19 +49,22 @@ sections:
     members:
       - title: Denise Baker
         text: Captain - Commanding Officer
-        image: assets/img/members/denise.jpg
+        image: assets/img/members/denisep.jpg
       - title: Deborah Khider
         text: Lt. Commander - First Officer, Science Officer
-        image: assets/img/members/deborah.jpg
+        image: assets/img/members/deborahp.jpg
       - title: Travis Baker
         text: Lt. Commander - Operations Chief
-        image: assets/img/members/travis.jpg
+        image: assets/img/members/travisp.jpg
       - title: Sean Warren
         text: Lt. Commander - Helmsperson
         image: assets/img/members/sean.jpg
       - title: Chris Mumford
         text: Lt. Junior Grade - Communications Officer
-        image: assets/img/members/chris.jpg
+        image: assets/img/members/chrisp.jpg
+      - title: Mik Frei Kosoy
+        text: Ensign - Counselor
+        image: assets/img/members/freip.jpg
 
   - type: contact.html
     section_id: contact
