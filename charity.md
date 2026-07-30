@@ -17,7 +17,7 @@ Charities we support:
 - [Long Beach Animal Care Services](https://www.longbeach.gov/acs/) 
 - [Los Cerritos Wetlands Authority](https://intoloscerritoswetlands.org)
 - [Helen Sanders Cat Protection and Welfare Society (CatPAWS)](https://helensanderscatpaws.com)
-- [Long Beach Rescue Mission] (https://lbrm.org/)
+- [Long Beach Rescue Mission](https://lbrm.org/)
 
 
 <img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/charity/lbanimal.png?raw=true" alt="Long Beach Animal Care" width="300">

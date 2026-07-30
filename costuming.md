@@ -16,7 +16,7 @@ The Quest uses Voyager-era uniforms. If you are into cosplaying, by all means, m
 
 ## Uniform
 
-We recommend [Cosermart] (https://cosermart.com) for cheap-but-well-made [jackets](https://www.ebay.com/itm/325285183503?hash=item4bbc82000f%3Ag%3AzeQAAOSwJMpjLm2y&fbclid=IwY2xjawHj9WlleHRuA2FlbQIxMQABHdpD71VWHFRNubmbynC-0IXNOsjVCsl8uyLggQKJ12BAXh5qtPhMcZAhbw_aem_lqeCkah6iYoZAX0cEDFBvw) and [undershirts](https://www.ebay.com/itm/324758571388?var=513762929414).
+We recommend [Cosermart](https://cosermart.com) for cheap-but-well-made [jackets](https://www.ebay.com/itm/325285183503?hash=item4bbc82000f%3Ag%3AzeQAAOSwJMpjLm2y&fbclid=IwY2xjawHj9WlleHRuA2FlbQIxMQABHdpD71VWHFRNubmbynC-0IXNOsjVCsl8uyLggQKJ12BAXh5qtPhMcZAhbw_aem_lqeCkah6iYoZAX0cEDFBvw) and [undershirts](https://www.ebay.com/itm/324758571388?var=513762929414).
 
 
 <img src="https://github.com/startrekthefleet/uss-quest/blob/main/assets/img/costuming/cosermart.jpg?raw=true" alt="Cosertmart" width="600">
