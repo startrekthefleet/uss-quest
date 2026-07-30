@@ -24,7 +24,7 @@ It's not confirmed, but it is likely that the class of ship got its name from th
 
 Given that it was built solely as a labor of love by someone outside of the production, it is one of the few ship models in Star Trek’s history to have not been built or commissioned in-house.
 
-See [Memory Alpha] (https://memory-alpha.fandom.com/wiki/Olympic_class) for more info.
+See [Memory Alpha](https://memory-alpha.fandom.com/wiki/Olympic_class) for more info.
 
 ## LORE
 
